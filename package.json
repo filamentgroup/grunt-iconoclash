@@ -16,14 +16,14 @@
     "url": "https://github.com/filamentgroup/grunt-iconoclash/issues"
   },
   "license": "MIT",
-  "main": "Gruntfile.js",
   "engines": {
     "node": ">= 0.10.0"
   },
+  "main": "tasks/iconoclash",
   "scripts": {
   },
   "dependencies": {
-    "fg-iconoclash": "^0.1.0"
+    "fg-iconoclash": "../iconoclash/"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
