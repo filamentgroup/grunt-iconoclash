@@ -7,7 +7,7 @@
  */
 
 /*global require:true*/
-var Iconoclash = require( 'iconoclash' );
+var Iconoclash = require( 'fg-iconoclash' );
 
 module.exports = function( grunt , undefined ) {
 	"use strict";

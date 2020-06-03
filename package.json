@@ -1,7 +1,7 @@
 {
   "name": "fg-grunt-iconoclash",
   "description": "Easy external SVG icons",
-  "version": "0.1.0",
+  "version": "0.1.0-1",
   "homepage": "https://github.com/filamentgroup/grunt-iconoclash",
   "author": {
     "name": "Scott Jehl",
@@ -23,7 +23,7 @@
   "scripts": {
   },
   "dependencies": {
-    "fg-iconoclash": "filamentgroup/iconoclash#master"
+    "fg-iconoclash": "0.1.0-1"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
